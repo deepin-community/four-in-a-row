@@ -1,0 +1,533 @@
+# translation of gnome-games.master.hi.po to Hindi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+#
+# G Karunakar <karunakar@freedomink.org>, 2003.
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2004.
+# Rajesh Ranjan <rranjan@redhat.com>, 2005, 2006, 2007.
+# Ravishankar Shrivastava <raviratlami@aol.in>, 2009.
+# Rajesh Ranjan <rajesh672@gmail.com>, 2009, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games.master.hi\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=four-"
+"in-a-row&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2013-01-28 23:19+0000\n"
+"PO-Revision-Date: 2013-03-25 15:54+0530\n"
+"Last-Translator: raj <raj>\n"
+"Language-Team: Hindi <kde-i18n-doc@kde.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: ../data/four-in-a-row.desktop.in.in.h:1
+msgid "Four-in-a-Row"
+msgstr "एक-पंक्ति-में-चार"
+
+#: ../data/four-in-a-row.desktop.in.in.h:2
+msgid "Make lines of the same color to win"
+msgstr "समान रंग की पंक्ति बनाने हेतु प्रतिस्पर्धा करें"
+
+#: ../data/four-in-a-row.desktop.in.in.h:3
+msgid "game;strategy;logic;"
+msgstr "game;strategy;logic;"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:1
+msgid "Level of Player One"
+msgstr "पहले खिलाड़ी का स्तर"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:2
+msgid ""
+"Zero is human; one through three correspond to the level of the computer "
+"player."
+msgstr "शून्य मनुष्य का है, एक से तीन तक का लेवल कम्प्यूटर खिलाड़ी हेतु है."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:3
+msgid "Level of Player Two"
+msgstr "दूसरे खिलाड़ी का स्तर"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:4
+msgid "Theme ID"
+msgstr "प्रसंग आईडी"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:5
+msgid "A number specifying the preferred theme."
+msgstr "पसंदीदा प्रसंग निर्दिष्ट करने का एक क्रमांक."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:6
+msgid "Animate"
+msgstr "एनिमेट"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:7
+msgid "Whether or not to use animation."
+msgstr "एनीमेशन उपयोग करें या नहीं."
+
+# #-#-#-#-#  gnome-icon-theme.gnome-2-2.hi.po (gnome-icon theme 2.2)  #-#-#-#-#
+# 48x48/emblems/emblem-sound.icon.in.h:1
+# 48x48/emblems/emblem-sound.icon.in.h:1
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:8
+msgid "Sound"
+msgstr "ध्वनि"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:9
+msgid "Whether or not to play event sounds."
+msgstr "घटनाओं हेतु ध्वनि बजाएँ या नहीं."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:10 ../src/prefs.c:316
+msgid "Move left"
+msgstr "बायाँ जाएँ"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:11
+msgid "Key press to move left."
+msgstr "बायेँ ले जाने हेतु कुंजी दबाएँ."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:12 ../src/prefs.c:317
+msgid "Move right"
+msgstr "दाँया जाएँ"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:13
+msgid "Key press to move right."
+msgstr "दाएँ ले जाने हेतु कुंजी दबाएँ."
+
+# libgnome/gnome-program.c:426
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:14 ../src/prefs.c:318
+msgid "Drop marble"
+msgstr "कंचा छोड़ें"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.in.h:15
+msgid "Key press to drop a marble."
+msgstr "कंचा छोड़ने हेतु कुंजी दबाएँ."
+
+# libgnomevfs/gnome-vfs-result.c:137
+#: ../src/games-controls.c:288
+msgid "Unknown Command"
+msgstr "अज्ञात कमांड"
+
+#: ../src/games-stock.c:41
+msgid "View help for this game"
+msgstr "इस खेल के लिये सहायता दिखायें"
+
+#: ../src/games-stock.c:42
+msgid "End the current game"
+msgstr "वर्तमान खेल समाप्त करें"
+
+#: ../src/games-stock.c:43
+msgid "Toggle fullscreen mode"
+msgstr "पूरा स्क्रीन मोड टॉगल करें"
+
+#: ../src/games-stock.c:44
+msgid "Get a hint for your next move"
+msgstr "अगली चाल हेतु संकेत प्राप्त करें"
+
+#: ../src/games-stock.c:45
+msgid "Leave fullscreen mode"
+msgstr "पूर्ण स्क्रीन छोड़ें"
+
+#: ../src/games-stock.c:46
+msgid "Start a new multiplayer network game"
+msgstr "एक नया मल्टीप्लेयर संजाल खेल आरंभ करें"
+
+#: ../src/games-stock.c:47
+msgid "End the current network game and return to network server"
+msgstr "मौजूदा संजाल खेल का अंत करें और संजाल सर्वर पर लौटें"
+
+#: ../src/games-stock.c:48
+msgid "Start a new game"
+msgstr "एक नया खेल प्रारंभ करें"
+
+# libgnomeui/gnome-app-helper.c:254
+#: ../src/games-stock.c:49
+msgid "Pause the game"
+msgstr "खेल रोकें"
+
+#: ../src/games-stock.c:50
+msgid "Show a list of players in the network game"
+msgstr "संजाल खेल में खिलाड़ियों की सूची दिखाएं"
+
+#: ../src/games-stock.c:51
+msgid "Redo the undone move"
+msgstr "पिछली चाल पूर्ववत करें"
+
+#: ../src/games-stock.c:52
+msgid "Restart the game"
+msgstr "वर्तमान खेल पुनःप्रारंभ करें"
+
+#: ../src/games-stock.c:53
+msgid "Resume the paused game"
+msgstr "रूका खेल पुनःप्रारंभ करें"
+
+# libgnomeui/gnome-app-helper.c:280
+#: ../src/games-stock.c:54
+msgid "View the scores"
+msgstr "अंक देखें"
+
+#: ../src/games-stock.c:55
+msgid "Undo the last move"
+msgstr "पिछली चाल पूर्ववत करें"
+
+# libgnomeui/gnome-app-helper.c:259
+#: ../src/games-stock.c:56
+msgid "About this game"
+msgstr "इस खेल के बारे में"
+
+#: ../src/games-stock.c:57
+msgid "Close this window"
+msgstr "इस विंडो को बन्द करें"
+
+# libgnomeui/gnome-app-helper.c:254
+#: ../src/games-stock.c:58
+msgid "Configure the game"
+msgstr "यह खेल विन्यस्त करें"
+
+# libgnomeui/gnome-app-helper.c:259
+#: ../src/games-stock.c:59
+msgid "Quit this game"
+msgstr "इस खेल को छोड़ें"
+
+#: ../src/games-stock.c:247
+msgid "_Contents"
+msgstr "विषय सूची (_C)"
+
+#: ../src/games-stock.c:248
+msgid "_Fullscreen"
+msgstr "फुलस्क्रीन (_F)"
+
+#: ../src/games-stock.c:249
+msgid "_Hint"
+msgstr "संकेत (_H)"
+
+#. Translators: This "_New" is for the menu item 'Game->New', implies "New Game"
+#: ../src/games-stock.c:251
+msgid "_New"
+msgstr "नया (_N)"
+
+#. Translators: This "_New Game" is for the game-over dialogue
+#: ../src/games-stock.c:253
+msgid "_New Game"
+msgstr "नया खेल (_N)"
+
+#: ../src/games-stock.c:254
+msgid "_Redo Move"
+msgstr "चाल फिर चलें (_R)"
+
+#. Translators: this is the "Reset" scores button in a scores dialogue
+#: ../src/games-stock.c:256
+msgid "_Reset"
+msgstr "रीसेट करें (_R)"
+
+#. Translators: "_Restart" is the menu item 'Game->Restart', implies "Restart Game"
+#: ../src/games-stock.c:258
+msgid "_Restart"
+msgstr "पुन:आरंभ करें (_R)"
+
+#: ../src/games-stock.c:259
+msgid "_Undo Move"
+msgstr "चाल वापस लें (_U)"
+
+#: ../src/games-stock.c:260
+msgid "_Deal"
+msgstr "डील (_D)"
+
+#: ../src/games-stock.c:261
+msgid "_Leave Fullscreen"
+msgstr "पूर्ण स्क्रीन छोड़ें (_L)"
+
+#: ../src/games-stock.c:262
+msgid "Network _Game"
+msgstr "संजाल खेल (_G)"
+
+#: ../src/games-stock.c:263
+msgid "L_eave Game"
+msgstr "खेल छोड़ें (_e)"
+
+#  Players tab
+#  FIXME mnemonic doesn't seem to work
+#: ../src/games-stock.c:264
+msgid "Player _List"
+msgstr "खिलाड़ी सूची (_L)"
+
+#: ../src/games-stock.c:265
+msgid "_Pause"
+msgstr "ठहरें (_P)"
+
+#: ../src/games-stock.c:266
+msgid "Res_ume"
+msgstr "फिर चालू करें (_u)"
+
+# libgnomeui/gnome-scores.c:94
+#: ../src/games-stock.c:267
+msgid "_Scores"
+msgstr "अंक (_S)"
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-app-helper.c:95 libgnomeui/gnome-app-helper.h:534
+#: ../src/games-stock.c:268
+msgid "_End Game"
+msgstr "खेल समाप्त (_E)"
+
+#. %s is replaced with the name of the game in gnome-games.
+#: ../src/games-stock.c:317
+#, c-format
+msgid ""
+"%s is free software; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version %d of the License, or (at your option) any later "
+"version."
+msgstr ""
+"%s मुफ़्त सॉफ़्टवेयर है; इसे आप मुफ़्त सॉफ़्टवेयर फाउण्डेशन द्वारा प्रकाशित ग्नू जनरल पब्लिक "
+"लाइसेंस के तहत वितरित कर सकते हैं या परिवर्धित कर सकते हैं; लाइसेंस के %d संस्करण या इसके "
+"(अपने विकल्प अनुसार) बाद के संस्करण के तहत."
+
+#: ../src/games-stock.c:322
+#, c-format
+msgid ""
+"%s is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details."
+msgstr ""
+"%s is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details."
+
+#: ../src/games-stock.c:327
+#, c-format
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"%s; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, "
+"Fifth Floor, Boston, MA  02110-1301  USA"
+msgstr ""
+"You should have received a copy of the GNU General Public License along with "
+"%s; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, "
+"Fifth Floor, Boston, MA  02110-1301  USA"
+
+#: ../src/games-stock.c:331
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program.  If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+"इस प्रोग्राम के साथ आपको ग्नू - जनरल पब्लिक लाइसेंस की प्रतिलिपि मिलनी चाहिए. यदि नहीं "
+"तो देखें<http://www.gnu.org/licenses/>."
+
+#: ../src/gfx.c:248
+#, c-format
+msgid ""
+"Unable to load image:\n"
+"%s"
+msgstr ""
+"छवि लोड करने में अक्षम:\n"
+"%s"
+
+#: ../src/main.c:524
+msgid "It's a draw!"
+msgstr "यह तो बराबर हो गया!"
+
+#: ../src/main.c:533
+msgid "You win!"
+msgstr "आप जीते!"
+
+#: ../src/main.c:535 ../src/main.c:554
+msgid "It is your move."
+msgstr "यह आपकी चाल है."
+
+#: ../src/main.c:538
+msgid "I win!"
+msgstr "मैं जीता!"
+
+#: ../src/main.c:540 ../src/main.c:642
+msgid "Thinking..."
+msgstr "सोच में..."
+
+#: ../src/main.c:551
+#, c-format
+msgid "%s wins!"
+msgstr "%s जीता!"
+
+#: ../src/main.c:558
+#, c-format
+msgid "Waiting for %s to move."
+msgstr "%s को चलने के लिए प्रतीक्षारत."
+
+#: ../src/main.c:659
+#, c-format
+msgid "Hint: Column %d"
+msgstr "संकेत: स्तम्भ %d"
+
+#: ../src/main.c:687 ../src/main.c:691
+msgid "You:"
+msgstr "आप "
+
+#: ../src/main.c:688 ../src/main.c:690
+msgid "Me:"
+msgstr "मैं"
+
+# libgnomeui/gnome-scores.c:94
+#: ../src/main.c:736
+msgid "Scores"
+msgstr "अंक"
+
+#: ../src/main.c:780
+msgid "Drawn:"
+msgstr "बराबरी:"
+
+#: ../src/main.c:829
+msgid ""
+"\"Four in a Row\" for GNOME, with a computer player driven by Giuliano "
+"Bertoletti's Velena Engine.\n"
+"\n"
+"\"Four in a Row\" is a part of GNOME Games."
+msgstr ""
+"गनोम के लिए \"पंक्ति में चार\", Giuliano Bertoletti के वेलेना इंजन के साथ.\n"
+"\n"
+"\"पंक्ति में चार\" ग्नोम खेल का हिस्सा है."
+
+# libgnomeprintui/gnome-print-paper-selector.c:1453
+#: ../src/main.c:830
+msgid "GNOME Games web site"
+msgstr "ग्नोम खेल वेबसाइट"
+
+#  Translator credits
+#: ../src/main.c:833
+msgid "translator-credits"
+msgstr ""
+"रविशंकर श्रीवास्तव (raviratlami@yahoo.com)\n"
+"राजेश रंजन (rajeshkajha@yahoo.com)"
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-app-helper.c:95 libgnomeui/gnome-app-helper.h:534
+#: ../src/main.c:1183
+msgid "_Game"
+msgstr "खेल (_G)"
+
+#: ../src/main.c:1184
+msgid "_View"
+msgstr "देखें (_V)"
+
+#: ../src/main.c:1185
+msgid "_Settings"
+msgstr "जमावट (_S)"
+
+#: ../src/main.c:1186
+msgid "_Help"
+msgstr "मदद (_H)"
+
+#: ../src/main.h:5
+#| msgid "Four-in-a-Row"
+msgid "Four-in-a-row"
+msgstr "एक-पंक्ति-में-चार"
+
+#: ../src/prefs.c:207
+msgid "Four-in-a-Row Preferences"
+msgstr "एक-पंक्ति-में-चार वरीयताएँ"
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-app-helper.c:95 libgnomeui/gnome-app-helper.h:534
+#: ../src/prefs.c:230
+msgid "Game"
+msgstr "खेल"
+
+#: ../src/prefs.c:233
+#| msgid ""
+#| "Player One:\n"
+#| "%s"
+msgid "Player One:"
+msgstr "पहला खिलाड़ी:"
+
+#: ../src/prefs.c:244 ../src/prefs.c:272
+msgid "Human"
+msgstr "मनुष्य "
+
+#: ../src/prefs.c:248 ../src/prefs.c:276
+msgid "Level one"
+msgstr "स्तर एक"
+
+#: ../src/prefs.c:252 ../src/prefs.c:280
+msgid "Level two"
+msgstr "स्तर दो"
+
+#: ../src/prefs.c:256 ../src/prefs.c:284
+msgid "Level three"
+msgstr "स्तर तीन"
+
+#: ../src/prefs.c:262
+#| msgid ""
+#| "Player Two:\n"
+#| "%s"
+msgid "Player Two:"
+msgstr "दूसरा खिलाड़ी:"
+
+#: ../src/prefs.c:290
+msgid "_Theme:"
+msgstr "प्रसंग: (_T)"
+
+# libgnome/gnome-program.c:578
+#: ../src/prefs.c:303
+msgid "Enable _animation"
+msgstr "एनीमेशन सक्षम करें (_a)"
+
+# libgnome/gnome-program.c:578
+#: ../src/prefs.c:307
+msgid "E_nable sounds"
+msgstr "ध्वनियाँ सक्षम करें (_n)"
+
+#. keyboard tab
+#: ../src/prefs.c:312
+msgid "Keyboard Controls"
+msgstr "कुंजीपटल नियंत्रण"
+
+#: ../src/theme.c:41
+msgid "Classic"
+msgstr "क्लासिक"
+
+#: ../src/theme.c:45 ../src/theme.c:66 ../src/theme.c:73 ../src/theme.c:80
+msgid "Red"
+msgstr "लाल"
+
+#: ../src/theme.c:45
+msgid "Yellow"
+msgstr "पीला"
+
+#: ../src/theme.c:48
+msgid "High Contrast"
+msgstr "अधिक कंट्रास्ट"
+
+#: ../src/theme.c:52 ../src/theme.c:59
+msgid "Circle"
+msgstr "वृत्त"
+
+#: ../src/theme.c:52 ../src/theme.c:59
+msgid "Cross"
+msgstr "आरपार"
+
+#: ../src/theme.c:55
+msgid "High Contrast Inverse"
+msgstr "अधिक विरोध प्रतिलोम"
+
+#: ../src/theme.c:62
+msgid "Cream Marbles"
+msgstr "क्रीम संगमरमर"
+
+#: ../src/theme.c:66 ../src/theme.c:73 ../src/theme.c:80 ../src/theme.c:87
+msgid "Blue"
+msgstr "नीला"
+
+#: ../src/theme.c:69
+msgid "Glass Marbles"
+msgstr "शीशी का संगमरमर"
+
+#: ../src/theme.c:76
+msgid "Nightfall"
+msgstr "नाइटफ़ाल"
+
+#: ../src/theme.c:83
+msgid "Blocks"
+msgstr "ब्लॉक्स"
+
+#: ../src/theme.c:87
+msgid "Orange"
+msgstr "नारंगी"

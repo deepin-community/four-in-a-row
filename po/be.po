@@ -1,0 +1,340 @@
+# Ales Nyakhaychyk <nab@mail.by>, 2003.
+# Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2011, 2014.
+# Kasia Bondarava <kasia.bondarava@gmail.com>, 2012.
+# Yuras Shumovich <shumovichy@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=four-"
+"in-a-row&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-02-28 06:51+0000\n"
+"PO-Revision-Date: 2017-05-15 20:13+0300\n"
+"Last-Translator: Yuras Shumovich <shumovichy@gmail.com>\n"
+"Language-Team: Belarusian <i18n-bel-gnome@googlegroups.com>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Project-Style: gnome\n"
+
+#: ../data/four-in-a-row.appdata.xml.in.h:1
+#: ../data/four-in-a-row.desktop.in.h:1 ../data/four-in-a-row.ui.h:1
+#: ../src/main.h:5
+msgid "Four-in-a-row"
+msgstr "Чатыры ў радок"
+
+#: ../data/four-in-a-row.appdata.xml.in.h:2
+#: ../data/four-in-a-row.desktop.in.h:2
+msgid "Make lines of the same color to win"
+msgstr "Каб выйграць, складай лініі з аднаго колеру"
+
+#: ../data/four-in-a-row.appdata.xml.in.h:3
+msgid ""
+"A family classic, the objective of Four-in-a-row is to build a line of four "
+"of your marbles while trying to stop your opponent (human or computer) from "
+"building a line of his or her own. A line can be horizontal, vertical or "
+"diagonal. The first player to connect four in a row is the winner!"
+msgstr ""
+"Класічная гульня, задача якой заключаецца ў тым, каб скласці лінію з чатырох "
+"каменьчыкаў, у той самы час стараючыся не дазволіць суперніку (чалавеку або "
+"камп'ютару) зрабіць гэта. Лінія можа быць гарызантальнай, вертыкальнай або "
+"дыяганальнай. Хто першы складзе чатыры каменьчыкі ў рад, той і выйграў!"
+
+#: ../data/four-in-a-row.appdata.xml.in.h:4
+msgid ""
+"Four-in-a-row features multiple difficulty levels. If you're having trouble, "
+"you can always ask for a hint."
+msgstr ""
+"Гульня \"Чатыры ў радок\" мае некалькі ўзроўняў цяжкасці. Калі ў вас "
+"праблемы, заўсёды можна звярнуцца па падказку."
+
+#: ../data/four-in-a-row.appdata.xml.in.h:5
+msgid "The GNOME Project"
+msgstr "Праект GNOME"
+
+#: ../data/four-in-a-row.desktop.in.h:3
+msgid "game;strategy;logic;"
+msgstr "гульня;стратэгія;логіка;лагічная гульня;"
+
+#: ../data/four-in-a-row.ui.h:2
+msgid "Undo your most recent move"
+msgstr "Адрабіць апошні ход назад"
+
+#: ../data/four-in-a-row.ui.h:3
+msgid "_Hint"
+msgstr "Пад_казка"
+
+#: ../data/four-in-a-row.ui.h:4
+msgid "Receive a hint for your next move"
+msgstr "Атрымаць падказку для наступнага ходу"
+
+#: ../data/four-in-a-row.ui.h:5
+msgid "_Start Over"
+msgstr "_Пачаць з пачатку"
+
+#: ../data/four-in-a-row.ui.h:6
+msgid "Start a new game"
+msgstr "Распачаць новую гульню"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:1
+msgid "Opponent"
+msgstr "Супернік"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:2
+msgid ""
+"Zero is human; one through three correspond to the level of the computer "
+"player."
+msgstr "0: чалавек, 1, 2, 3: узровень камп'ютарнага гульца."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:3
+msgid "Theme ID"
+msgstr "Ідэнтыфікатар матыва"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:4
+msgid "A number specifying the preferred theme."
+msgstr "Нумар, які азначае ўпадабаны матыў афармлення."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:5
+msgid "Sound"
+msgstr "Гук"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:6
+msgid "Whether or not to play event sounds."
+msgstr "Ці трэба агучваць гульню."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:7 ../src/prefs.c:247
+msgid "Move left"
+msgstr "Пахадзіць улева"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:8
+msgid "Key press to move left."
+msgstr "Клавіша, каб пахадзіць улева."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:9 ../src/prefs.c:248
+msgid "Move right"
+msgstr "Пахадзіць управа"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:10
+msgid "Key press to move right."
+msgstr "Клавіша, каб пахадзіць управа."
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:11 ../src/prefs.c:249
+msgid "Drop marble"
+msgstr "Кінуць каменьчык"
+
+#: ../data/org.gnome.four-in-a-row.gschema.xml.h:12
+msgid "Key press to drop a marble."
+msgstr "Клавіша, каб кінуць каменьчык."
+
+#: ../src/games-controls.c:105
+msgid "This key is already in use."
+msgstr "Гэта клавіша ўжо выкарыстоўваецца."
+
+#: ../src/games-controls.c:326
+msgid "Unknown Command"
+msgstr "Невядомы загад"
+
+#: ../src/gfx.c:247
+#, c-format
+msgid ""
+"Unable to load image:\n"
+"%s"
+msgstr ""
+"Не ўдалося загрузіць выяву:\n"
+"%s"
+
+#: ../src/main.c:476
+msgid "It’s a draw!"
+msgstr "Нічыя!"
+
+#: ../src/main.c:484
+msgid "You win!"
+msgstr "Вы перамаглі!"
+
+#: ../src/main.c:486 ../src/main.c:502
+msgid "Your Turn"
+msgstr "Ваш ход"
+
+#: ../src/main.c:489
+msgid "I win!"
+msgstr "Я перамог!"
+
+#: ../src/main.c:491 ../src/main.c:590
+msgid "I’m Thinking…"
+msgstr "Думаю..."
+
+#: ../src/main.c:603
+#, c-format
+msgid "Hint: Column %d"
+msgstr "Падказка: слупок %d"
+
+#: ../src/main.c:631 ../src/main.c:635
+msgid "You:"
+msgstr "Вы:"
+
+#: ../src/main.c:632 ../src/main.c:634
+msgid "Me:"
+msgstr "Я:"
+
+#: ../src/main.c:680
+msgid "Scores"
+msgstr "Лік"
+
+#: ../src/main.c:721
+msgid "Drawn:"
+msgstr "Нічыйных:"
+
+#: ../src/main.c:762
+msgid "Connect four in a row to win."
+msgstr "Збярыце чатыры ў радок каб перамагчы."
+
+#: ../src/main.c:765
+msgid "translator-credits"
+msgstr ""
+"Ales Nyakhaychyk <nab@mail.by>\n"
+"Ihar Hrachyshka <ihar.hrachyshka@gmail.com>\n"
+"Юрась Шумовіч <shumovichy@gmail.com>"
+
+#: ../src/main.c:1130
+msgid "_Scores"
+msgstr "_Рэкорды"
+
+#: ../src/main.c:1131
+msgid "_Preferences"
+msgstr "_Настройкі"
+
+#: ../src/main.c:1134
+msgid "_Help"
+msgstr "_Дапамога"
+
+#: ../src/main.c:1135
+msgid "_About"
+msgstr "_Аб праграме"
+
+#: ../src/main.c:1136
+msgid "_Quit"
+msgstr "_Выйсці"
+
+#: ../src/prefs.c:171
+msgid "Preferences"
+msgstr "Настройкі"
+
+#: ../src/prefs.c:193
+msgid "Game"
+msgstr "Гульня"
+
+#: ../src/prefs.c:196
+msgid "Opponent:"
+msgstr "Супернік:"
+
+#: ../src/prefs.c:207
+msgid "Human"
+msgstr "Чалавек"
+
+#: ../src/prefs.c:211
+msgid "Level one"
+msgstr "Першы ўзровень"
+
+#: ../src/prefs.c:215
+msgid "Level two"
+msgstr "Другі ўзровень"
+
+#: ../src/prefs.c:219
+msgid "Level three"
+msgstr "Трэці ўзровень"
+
+#: ../src/prefs.c:225
+msgid "_Theme:"
+msgstr "_Матыў:"
+
+#: ../src/prefs.c:238
+msgid "E_nable sounds"
+msgstr "Уключыць _гук"
+
+#. keyboard tab
+#: ../src/prefs.c:243
+msgid "Keyboard Controls"
+msgstr "Клавіятурнае кіраванне"
+
+#: ../src/theme.c:40
+msgid "High Contrast"
+msgstr "Высокая кантраснасць"
+
+#: ../src/theme.c:44 ../src/theme.c:53
+msgid "Circle"
+msgstr "Нулік"
+
+#: ../src/theme.c:44 ../src/theme.c:53
+msgid "Cross"
+msgstr "Крыжык"
+
+#: ../src/theme.c:45 ../src/theme.c:54
+msgid "Circle wins!"
+msgstr "Нулік перамог!"
+
+#: ../src/theme.c:45 ../src/theme.c:54
+msgid "Cross wins!"
+msgstr "Крыжык перамог!"
+
+#: ../src/theme.c:46 ../src/theme.c:55
+msgid "Circle’s turn"
+msgstr "Ходзіць нулік"
+
+#: ../src/theme.c:46 ../src/theme.c:55
+msgid "Cross’s turn"
+msgstr "Ходзіць крыжык"
+
+#: ../src/theme.c:49
+msgid "High Contrast Inverse"
+msgstr "Высокая інверсійная кантраснасць"
+
+#: ../src/theme.c:58
+msgid "Red and Green Marbles"
+msgstr "Чырвоныя і зялёныя каменьчыкі"
+
+#: ../src/theme.c:62 ../src/theme.c:71 ../src/theme.c:80
+msgid "Red"
+msgstr "Чырвоны"
+
+#: ../src/theme.c:62 ../src/theme.c:80
+msgid "Green"
+msgstr "Зялёны"
+
+#: ../src/theme.c:63 ../src/theme.c:72 ../src/theme.c:81
+msgid "Red wins!"
+msgstr "Чырвоны перамог!"
+
+#: ../src/theme.c:63 ../src/theme.c:81
+msgid "Green wins!"
+msgstr "Зялёны перамог!"
+
+#: ../src/theme.c:64 ../src/theme.c:73 ../src/theme.c:82
+msgid "Red’s turn"
+msgstr "Ходзіць чырвоны!"
+
+#: ../src/theme.c:64 ../src/theme.c:82
+msgid "Green’s turn"
+msgstr "Ходзіць зялёны!"
+
+#: ../src/theme.c:67
+msgid "Blue and Red Marbles"
+msgstr "Сінія і чырвоныя каменьчыкі"
+
+#: ../src/theme.c:71
+msgid "Blue"
+msgstr "Сіні"
+
+#: ../src/theme.c:72
+msgid "Blue wins!"
+msgstr "Сіні перамог!"
+
+#: ../src/theme.c:73
+msgid "Blue’s turn"
+msgstr "Ходзіць сіні"
+
+#: ../src/theme.c:76
+msgid "Stars and Rings"
+msgstr "Зоркі і кольцы"
